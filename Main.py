@@ -1,13 +1,4 @@
-
-
----------- Forwarded message ---------
-From: URK21CO3027 DIDDIKATI HASHISH SAI <diddikatihashish@karunya.edu.in>
-Date: Tue, Aug 2, 2022 at 11:32 AM
-Subject:
-To: JAKKULA ARUN URK21CO2012 <jakkulaarun@karunya.edu.in>
-
-
-class Solution:
+ class Solution:
     """This class implements linear queue.
       Attributes:
           stack: A list which maintains the content of stack.
