@@ -1,4 +1,4 @@
- class MyCircularQueue:
+class MyCircularQueue:
     def __init__(self, size: int):
         self.size=size
         self.queue=[None]*size
